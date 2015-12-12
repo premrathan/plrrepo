@@ -1,3 +1,4 @@
 this is master
 create  repo
-add files in master
+add files in master.
+fetch
